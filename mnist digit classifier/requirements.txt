@@ -1,0 +1,6 @@
+```txt
+tensorflow
+numpy
+matplotlib
+pandas
+scikit-learn
